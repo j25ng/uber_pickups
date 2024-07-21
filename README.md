@@ -1,11 +1,11 @@
-# Streamlit teset app
+# Streamlit test app
 
 ## Usage
 ```bash
 $ pip install streamlit
 $ python -m venv .venv
 $ source .venv/bin/activate
-// 파이썬 코드 작성
+$ vi app.py // 파이썬 코드 작성
 $ streamlit run app.py
 // localhost로 페이지 접속
 ```
